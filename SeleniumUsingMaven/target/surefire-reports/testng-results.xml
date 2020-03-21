@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.learning.selenium.HelloWorldTest" duration-ms="24769" started-at="2019-05-21T10:36:20Z" finished-at="2019-05-21T10:36:45Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24769" started-at="2019-05-21T10:36:20Z" finished-at="2019-05-21T10:36:45Z">
+      <class name="com.learning.selenium.HelloWorldTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.learning.selenium.HelloWorldTest@1550481]" name="Login" duration-ms="24747" started-at="2019-05-21T16:06:20Z" finished-at="2019-05-21T16:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- com.learning.selenium.HelloWorldTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.learning.selenium.HelloWorldTest -->
+</testng-results>
