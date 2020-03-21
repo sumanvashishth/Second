@@ -21,10 +21,10 @@ public class HelloWorldTest extends Config {
 @Test
 	public static void Login (){
 		
-		//System.out.println("SUMAN SHARMA");
+		//System.out.println("SUMAN SHARMA ");
 		System.setProperty("webdriver.chrome.driver", driverpath");
 		WebDriver driver = new ChromeDriver();
-		//String url = "www.facebook.com";
+		//String url = "www.facebook.com ";
 		String expectedTitle = "Facebook – log in or sign up";
 		String actualTitle = null;
 		driver.get("https://www.facebook.com");
